@@ -1,0 +1,13 @@
+.DS_Store
+
+.idea
+
+.idea/
+
+.idea/*
+
+.ipynb_checkpoints
+
+.ipynb_checkpoints/
+
+.ipynb_checkpoints/*
